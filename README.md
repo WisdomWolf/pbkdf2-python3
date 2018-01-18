@@ -1,3 +1,4 @@
+This is a fork of [mosquitto-auth-plug/contrib/python3](https://https://github.com/jpmens/mosquitto-auth-plug/tree/master/contrib/python3) password hashing module in order to ease pip installation.
 
 ## hashing_passwords.py
 
